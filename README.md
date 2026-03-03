@@ -43,7 +43,7 @@
 
 ## 📧 Contacto
 
-* 📧 Email: [pedropuertas0402@gmail.com](mailto:pedropuertas0402@gmail.com)
+* 📧 Email: [peter@ethernalstudios.com](mailto:peter@ethernalstudios.com)
 * 💻 GitHub: [@wrpeter-ethernal](https://github.com/wrpeter-ethernal)
 * 💬 Discord: [wrpeter](https://discord.com/users/1267873773676269599)
 * 🐦 Twitter: [@wrpeter_](https://x.com/wrpeter_)
