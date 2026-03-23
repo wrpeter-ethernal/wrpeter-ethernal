@@ -32,6 +32,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
 <img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white">
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 </p>
 
 ### 🔧 Herramientas
