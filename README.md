@@ -45,13 +45,6 @@
 <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white">
 </p>
 
-## 📊 Estadísticas
-
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrpeter-ethernal&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wrpeter-ethernal&layout=compact&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=wrpeter-ethernal&theme=dark)](https://git.io/streak-stats)
-
 ## 📧 Contacto
 
 * 📧 Email: [peter@ethernalstudios.com](mailto:peter@ethernalstudios.com)
