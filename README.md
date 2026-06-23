@@ -49,5 +49,5 @@
 
 * 📧 Email: [peter@ethernalstudios.com](mailto:peter@ethernalstudios.com)
 * 💻 GitHub: [@wrpeter-ethernal](https://github.com/wrpeter-ethernal)
-* 💬 Discord: [wrpeter](https://discord.com/users/1267873773676269599)
+* 💬 Discord: [wrpeter_](https://discord.com/users/1401212917440975110)
 * 🐦 Twitter: [@wrpeter_](https://x.com/wrpeter_)
