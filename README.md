@@ -1,16 +1,14 @@
 <h3 align="center">Peter - CEO & Full Stack Developer 👋</h3>
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=wrpeter-ethernal&color=blue"/> 
 </p>
 
 ## 📖 Sobre mí
-
 * 🎮 CEO y Full Stack Developer en **Ethernal Studio**
-* 🔧 Desarrollo mods para Minecraft usando Fabric API
-* 📺 Creo series y eventos en Minecraft
-* 💻 Desarrollo de software
-  
+* 🔧 Desarrollo mods para Minecraft con Fabric API, enfocados en [rendimiento / nuevas mecánicas / gestión de servidores — ajusta según tu caso]
+* 💻 Construyo software y herramientas para proyectos propios y de terceros
+* 🚀 Actualmente enfocado en escalar Ethernal Studio y sus productos
+
 <hr/>
 
 ## 🛠️ Tecnologías que utilizo
@@ -49,7 +47,6 @@
 </p>
 
 ## 📧 Contacto
-
 * 📧 Email: [peter@ethernalstudios.com](mailto:peter@ethernalstudios.com)
 * 💻 GitHub: [@wrpeter-ethernal](https://github.com/wrpeter-ethernal)
 * 💬 Discord: [wrpeter_](https://discord.com/users/1401212917440975110)
