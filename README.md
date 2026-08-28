@@ -4,9 +4,9 @@
 </p>
 
 ## 📖 Sobre mí
-* 🎮 CEO y Full Stack Developer en **Ethernal Studio**
-* 🔧 Desarrollo mods para Minecraft con Fabric API, enfocados en [rendimiento / nuevas mecánicas / gestión de servidores — ajusta según tu caso]
-* 💻 Construyo software y herramientas para proyectos propios y de terceros
+* 🎮 CEO y Full Stack Developer en **Ethernal Studio**.
+* 🔧 Desarrollo mods para Minecraft con Fabric API.
+* 💻 Construyo software y herramientas para proyectos propios y de terceros.
 
 <hr/>
 
